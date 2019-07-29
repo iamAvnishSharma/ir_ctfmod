@@ -1,0 +1,15 @@
+cs_assault
+cs_estate
+cs_italy
+cs_office
+cs_siege
+de_aztec
+de_cbble
+de_dust
+de_dust2
+de_inferno
+de_nuke
+de_prodigy
+de_survivor
+de_train
+de_vertigo
